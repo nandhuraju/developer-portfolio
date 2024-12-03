@@ -1,6 +1,8 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
-}
+  title: "Who I am",
+  description1:
+    "My name's Nandhu Raju. I'm a Fullstack, Blockchain Developer based in Trivandrum, Kerala.",
+  description2:
+    "A Civil Engineer turned Web/Blockchain developer and a highly motivated professional with a strong work ethic and the desire to make a positive impact in any professional environment. I bring a diverse range of skills, experience and knowledge that have been developed over the years through both my formal education and professional experience.Currently doing Internship at Kerala Blockchain Academy",
+  image: 2,
+};
